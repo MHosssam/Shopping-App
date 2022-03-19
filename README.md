@@ -1,8 +1,9 @@
 # Shopping App
 
 ## Application support 
-- [x] Theme Mode 
-- [x] Multi Language
+- [x] Theme Mode (Light && Dark)
+- [x] Multi Language (Ar && En)
+- [x] Cache Data (Hive)
 - [ ] Backend With Firebase
 
 ## Packages
