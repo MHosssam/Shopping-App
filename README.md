@@ -1,9 +1,11 @@
 # Shopping App
 
+# Application support Mode And Multi Language
+
 ## Packages
 
 - Hive
-- Get
+- GetX
 - Lottie
 - Flutter Swipe Action Cell
 - Smooth Page Indicator
@@ -16,10 +18,19 @@
 ## APK
 https://www.mediafire.com/file/6cxisvq6vwxxtzp/Shopping_App.apk/file
 
-## Screens
+## Screens Light Mode
 
 | Main Pages | Auth && Notification |
 |:------:|:-------:|
 |![](./home.png)|![](./auth.png)|
 | Products |profile|
 |![](./products.png)|![](./profile.png)|
+
+
+## Screens Dark Mode
+
+| Profile | Notification|Home|
+|:------:|:------:|:------:|
+|![](./Screenshot_1647711680.png)|![](./Screenshot_1647711686.png)|![](./Screenshot_1647711694.png)|
+| Order |Cart|
+|![](./Screenshot_1647711702.png)|![](./Screenshot_1647711938.png)|
