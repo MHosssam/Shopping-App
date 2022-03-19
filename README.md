@@ -1,6 +1,9 @@
 # Shopping App
 
-# Application support Mode And Multi Language
+## Application support 
+- [x] Theme Mode 
+- [x] Multi Language
+- [ ] Backend With Firebase
 
 ## Packages
 
