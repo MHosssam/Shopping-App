@@ -18,9 +18,9 @@ https://www.mediafire.com/file/6cxisvq6vwxxtzp/Shopping_App.apk/file
 
 ## Screens
 
-<!-- | Splash | Logo | No Internet |
-|:------:|:-------:|:-------:|
-|![](./splash.png)|![](./assets/images/logo.jpg)|![](./no-internet.jpg)|
-|Characters Screen |Character Details Screen|Character Details Screen|
+| Main Pages | Auth && Notification |
+|:------:|:-------:|
+|![](./home.png)|![](./auth.png)|
+| Products |profile|
 ||||
-|![](./characters.png)|![](./character-details1.png)|![](./character-details2.png)| -->
+|![](./products.png)|![](./profile.png)|
