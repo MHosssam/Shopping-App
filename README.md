@@ -22,5 +22,4 @@ https://www.mediafire.com/file/6cxisvq6vwxxtzp/Shopping_App.apk/file
 |:------:|:-------:|
 |![](./home.png)|![](./auth.png)|
 | Products |profile|
-||||
 |![](./products.png)|![](./profile.png)|
