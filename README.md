@@ -4,7 +4,8 @@
 - [x] Theme Mode (Light && Dark)
 - [x] Multi Language (Ar && En)
 - [x] Cache Data (Hive)
-- [ ] Backend With Firebase
+- [x] Backend With Firebase
+- [ ] FCM 
 
 ## Packages
 
