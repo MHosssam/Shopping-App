@@ -5,7 +5,7 @@
 - [x] Multi Language (Ar && En)
 - [x] Cache Data (Hive)
 - [x] Backend With Firebase
-- [ ] FCM 
+- [x] FCM 
 
 ## Packages
 
@@ -19,9 +19,12 @@
 - Circular Menu
 - Flutter Form Builder
 - Form Builder Image Picker
+- Firebase
+- Firebase Messaging
+- Flutter Local Notifications
 
 ## APK
-https://www.mediafire.com/file/w67qbtegnzclet0/Shopping.apk/file
+https://www.mediafire.com/file/2tjkgygzkqtagli/FinishEcommerce.apk/file
 
 ## Screens Light Mode
 
