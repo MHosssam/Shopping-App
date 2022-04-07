@@ -40,5 +40,5 @@ https://www.mediafire.com/file/2tjkgygzkqtagli/FinishEcommerce.apk/file
 | Profile | Notification|Home|
 |:------:|:------:|:------:|
 |![](./Screenshot_1647711680.png)|![](./Screenshot_1647711686.png)|![](./Screenshot_1647711694.png)|
-| Order |Cart|
-|![](./Screenshot_1647711702.png)|![](./Screenshot_1647711938.png)|
+| Order |Cart| Help |
+|![](./Screenshot_1647711702.png)|![](./Screenshot_1647711938.png)|![](./Screenshot_1649342679.png)|
