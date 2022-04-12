@@ -1,5 +1,7 @@
 # Shopping App
 
+### Client app and Dashboard Using Flutter For android & Web
+
 ## Application support 
 - [x] Theme Mode (Light && Dark)
 - [x] Multi Language (Ar && En)
